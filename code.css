@@ -1,0 +1,28 @@
+body {
+  font-size: 20px;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-family: Georgia;
+}
+h2 {
+  text-align: center;
+  font-family: Taboha;
+}
+h3 {
+  text-align: center;
+  font-family: Taboha;
+}
+h5 {
+  text-align: center;
+  font-family: Arial;
+}
+h6 {
+  text-align: center;
+  font-family: Arial;
+}
+p {
+  text-align: center;
+  font-family: Arial;
+}
